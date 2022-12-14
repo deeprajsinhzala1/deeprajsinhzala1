@@ -60,7 +60,7 @@ I learned a lot from the open-source community and I love how collaboration and 
 	
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deeprajsinhzala1&theme=github_dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&hide=javascript,css&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8" width="45%"/>
 
-<img height="220em" src="https://github-readme-stats.vercel.app/api/wakatime?username=deeprajsinhzala1&theme=github_dark&hide_border=truelayout=compact&langs_count=8" width="45%" />
+<img height="220em" src="https://github-readme-stats.vercel.app/api/wakatime?username=deeprajsinhzala1&theme=github_dark&hide_border=truelayout=compact" width="45%" />
 
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=deeprajsinhzala1&theme=react&background=0d1117&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&count_private=true" width="45%" />
 
